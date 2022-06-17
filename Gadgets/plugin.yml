@@ -1,0 +1,8 @@
+name: Gadgets
+author: [YourPeaZ, SyntaxPE]
+version: 1.0.0
+api: ["4.0.0"]
+main: peazy\Main
+permissions:
+  gadgets.use:
+    default: op
